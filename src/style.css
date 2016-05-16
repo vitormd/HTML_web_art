@@ -50,20 +50,18 @@ CSS RESET END
 START STYLE
 */
 .master_container {
-	display: flex;
+
 }
 .each-block {
 	text-decoration: none;
-	background-color: red;
 	display: inline-block;
-	width: 1%;
-	height: 1%;
+	width: 1vw;
+	height: 1vh;
 	float: left;
-	border: 1px solid #f00;
 }
 .dark-green {
 	background-color: #009900;
 }
 .red {
-	background-color: red;
+	background-color: pink;
 }
